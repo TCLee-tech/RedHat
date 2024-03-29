@@ -6,3 +6,5 @@ Material on monolith to microservices migration on the Redhat Openshift platform
 - Lab instructions.
 
 [OKD - community version of RedHat Openshift Container Platform](https://www.okd.io)
+
+[Ansible - continuous deployment, config management](https://www.ansible.com/)
